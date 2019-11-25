@@ -287,9 +287,9 @@ This section details services that have integrated Lighthouse data. If you're wo
 
 * **[Lighthouse Keeper](https://lighthouse-keeper.com/)** - Lighthouse Keeper monitors your pages' Lighthouse scores and notifies you if they drop below your thresholds. Lighthouse Keeper is a free service that monitors up to 3 URLs once per day.
 
-* **[is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable)** - An open source Node.js CLI tool that finds publicly known security vulnerabilities in a website's frontend JavaScript libraries.
-
 * **[Web Page Test](https://www.webpagetest.org)** — An [open source](https://github.com/WPO-Foundation/webpagetest) tool for measuring and analyzing the performance of web pages on real devices. Users can choose to produce a Lighthouse report alongside the analysis of WebPageTest results.
+
+* **[is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable)** - An open source Node.js CLI tool that finds publicly known security vulnerabilities in a website's frontend JavaScript libraries.
 
 ### Paid / Tiered
 
